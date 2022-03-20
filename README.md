@@ -1,5 +1,5 @@
-* JavaScript Arrays
-* Methods
+# JavaScript Arrays
+## Methods
 
 * [] concat -join arrays
 * [] filter - remove certain values
@@ -16,8 +16,8 @@
 * [] sort - arrange values in a specific manner
 * [] reduce - used to perform calculations on values inside an array
 
-* JavaScript Objects
+# JavaScript Objects
 
-* LocalStorage
+# LocalStorage
 
-* JSON
+# JSON
